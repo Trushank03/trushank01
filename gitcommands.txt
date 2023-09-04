@@ -1,0 +1,2 @@
+git status    -- is there is a repo in this file
+git init      -- create a repository
